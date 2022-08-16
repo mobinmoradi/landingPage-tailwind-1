@@ -1,0 +1,19 @@
+* {
+    font-family: "Estedad";
+}
+
+.img1 {
+    background-image: url("./img/image1.png");
+}
+
+.clip1 {
+    clip-path: polygon(100% 0, 0 0, 0 14%);
+    background: #fff;
+    margin: -1px;
+}
+
+.clip2 {
+    clip-path: polygon(100% 0, 75% 0, 100% 100%);
+    background: #fff;
+    margin: -1px;
+}
